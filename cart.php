@@ -46,7 +46,7 @@ h2{
 }
 
 table th{
-  background-color: white;
+  background-color:yellow;
 
 }
 </style>
