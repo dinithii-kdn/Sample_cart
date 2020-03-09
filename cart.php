@@ -54,7 +54,7 @@ table th{
   </head>
   <body>
     <div class="container" style="width: 65%">
-      <h2>Shopping Cart</h2>
+      <h2>Shopping Cart 1</h2>
 <?php
 $query = "SELECT * FROM Product ORDER BY id ASC ";
 $result = mysqli_query($con,$query);
