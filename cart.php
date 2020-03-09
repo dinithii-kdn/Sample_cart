@@ -40,7 +40,7 @@ table, th, tr{
 }
 h2{
   text-align: center;
-  color: yellow;
+  color: red;
   background-color: white;
   padding: 2%;
 }
