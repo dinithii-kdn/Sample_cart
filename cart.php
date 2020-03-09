@@ -116,7 +116,7 @@ $total = $total + ($value["item_quantity"] * $value["product_price"] );
 }
  ?>
   <tr>
-    <td colspan="3" align="right">Total</td>
+    <td colspan="3" align="right">Total Price</td>
     <th align="right"> $ <?php echo number_format($total, decimals: 2); ?></th>
     <td></td>
   </tr>
