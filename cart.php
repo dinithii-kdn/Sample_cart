@@ -9,6 +9,9 @@ $con = mysqli_connect(host: "localhost" , user: "root" , password:"" , $database
 
 
 
+
+
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
