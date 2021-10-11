@@ -1,3 +1,6 @@
+
+
+
 <?php
 session_start();
 $database_name = "product_details";
